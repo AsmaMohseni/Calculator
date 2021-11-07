@@ -1,4 +1,4 @@
-package com.houarizegai.calculator;
+package com.asma.calculator;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
